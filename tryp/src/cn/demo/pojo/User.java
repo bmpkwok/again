@@ -4,7 +4,8 @@ public class User {
 	private Integer id;
 	private String name;
 	private String pwd;
-
+	private String teString;
+	private String seco;
 	public Integer getId() {
 		return id;
 	}
